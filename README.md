@@ -3,6 +3,11 @@
 Adds OAuth-based third-party authentication to CiSkeleton, allowing users to log in using external providers such as **Google**, **Facebook**, **GitHub**, **Discord**, **LinkedIn**, and **Microsoft**.
 
 <p align="center">
+  <a href="https://github.com/ciskeleton/plugin-oauth/releases"><img src="https://img.shields.io/github/v/release/ciskeleton/plugin-oauth?label=release" alt="Release"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/github/license/ciskeleton/plugin-oauth" alt="Licence: Apache-2.0"></a>
+</p>
+
+<p align="center">
   <img src="./main/preview.jpg" alt="OAuth Authentication" />
 </p>
 
